@@ -22,12 +22,12 @@ class Node {
   }
 
   /* Function to get left node */
-  public BTNode getLeft()
+  public Node getLeft()
   {
          return left;
   }
   /* Function to get right node */
-  public BTNode getRight()
+  public Node getRight()
   {
          return right;
   }
